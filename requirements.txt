@@ -1,0 +1,1 @@
+tensorflow\nnumpy\nopencv-python\nrequests\nflask
