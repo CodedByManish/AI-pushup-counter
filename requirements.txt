@@ -1,1 +1,5 @@
-tensorflow\nnumpy\nopencv-python\nrequests\nflask
+fastapi==0.75.0
+mediapipe==0.8.9
+opencv-python==4.5.3.20210927
+numpy==1.21.2
+uvicorn==0.17.0
